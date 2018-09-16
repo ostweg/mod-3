@@ -1,0 +1,12 @@
+c:\users\vmadmin\documents\visual studio 2017\Projects\ooPersonenObjekt3\ooPersonenObjekt3\bin\Debug\ooPersonenObjekt3.exe.config
+c:\users\vmadmin\documents\visual studio 2017\Projects\ooPersonenObjekt3\ooPersonenObjekt3\bin\Debug\ooPersonenObjekt3.exe
+c:\users\vmadmin\documents\visual studio 2017\Projects\ooPersonenObjekt3\ooPersonenObjekt3\bin\Debug\ooPersonenObjekt3.pdb
+c:\users\vmadmin\documents\visual studio 2017\Projects\ooPersonenObjekt3\ooPersonenObjekt3\obj\Debug\ooPersonenObjekt3.csprojResolveAssemblyReference.cache
+c:\users\vmadmin\documents\visual studio 2017\Projects\ooPersonenObjekt3\ooPersonenObjekt3\obj\Debug\ooPersonenObjekt3.exe
+c:\users\vmadmin\documents\visual studio 2017\Projects\ooPersonenObjekt3\ooPersonenObjekt3\obj\Debug\ooPersonenObjekt3.pdb
+C:\Users\vmadmin\Desktop\ooPersonenObjekt3 Samuel-Gast\ooPersonenObjekt3\bin\Debug\ooPersonenObjekt3.exe.config
+C:\Users\vmadmin\Desktop\ooPersonenObjekt3 Samuel-Gast\ooPersonenObjekt3\bin\Debug\ooPersonenObjekt3.exe
+C:\Users\vmadmin\Desktop\ooPersonenObjekt3 Samuel-Gast\ooPersonenObjekt3\bin\Debug\ooPersonenObjekt3.pdb
+C:\Users\vmadmin\Desktop\ooPersonenObjekt3 Samuel-Gast\ooPersonenObjekt3\obj\Debug\ooPersonenObjekt3.csprojResolveAssemblyReference.cache
+C:\Users\vmadmin\Desktop\ooPersonenObjekt3 Samuel-Gast\ooPersonenObjekt3\obj\Debug\ooPersonenObjekt3.exe
+C:\Users\vmadmin\Desktop\ooPersonenObjekt3 Samuel-Gast\ooPersonenObjekt3\obj\Debug\ooPersonenObjekt3.pdb
